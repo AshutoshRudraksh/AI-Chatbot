@@ -1,4 +1,4 @@
-# Advanced Local Chatbot with Ollama and Streamlit
+## Advanced Local Chatbot with Ollama and Streamlit
 
 A powerful, feature-rich local chatbot implementation that combines Ollama's language models with Streamlit's interactive interface capabilities. This chatbot supports streaming responses, advanced model parameters, conversation management, and markdown/code formatting.
 
